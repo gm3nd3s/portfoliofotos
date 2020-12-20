@@ -27,8 +27,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    font-family: 'Raleway', sans-serif;
-        
+    font-family: 'Raleway', sans-serif;        
 }
 
 header > a {
@@ -42,7 +41,7 @@ header > a {
 }
 
 br {
-    margin-top: 150px;
+    margin-top: 7.5%;
 }
 
 
