@@ -19,8 +19,8 @@ body {
 
 header {
     width: 100%;
-    height: 125px;
-    max-height: 15%;
+    height: 150px;
+    max-height: 150px;
     padding: 20px 5%;
     position: fixed;
     background-color: black;
@@ -31,31 +31,32 @@ header {
 }
 
 header > a {
-    width: 500px fit-content;
+    width: 100%;
+    height: 100%;
     color:rgb(255, 255, 255);
     font-size: 200%;
-    max-width: 40%;
-    max-height: fit-content;
-    min-height: fit-content;
-    
+    max-width: 500px;
+    max-width: fit-content;
+    font-weight: 1000;    
+    padding: 30px 20px;
 }
 
 br {
-    margin-top: 7.5%;
+    margin-top: 150px;
 }
 
 
 header > nav {
-    max-width: 25%;
+    max-width: 100%;
     max-height: fit-content;     
     
 }
 
 header > nav > a {
     color: #ffffff;
-    margin-left: 20px;
+    padding: 5px;
     font-size: 150%;
-    max-width: 15%;
+    max-width: 100%;
 }
 
 
